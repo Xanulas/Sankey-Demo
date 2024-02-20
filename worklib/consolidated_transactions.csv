@@ -1,0 +1,13 @@
+Account,Transaction Date,Merchant,Category,Description,Amount,Budget Category
+Apple Card,12/30/2023,Buc-Ee's #53,Gas,BUC-EE'S #53 3390 NORTH WILLISTON ROAD FLORENCE 29506 SC USA,1.0,Gas
+Apple Card,12/20/2023,Chipotle Mexican Grill,Restaurants,CHIPOTLE 3267 5431 PAGE ROAD DURHAM 27703 NC USA,1.0,Restaurant
+Apple Card,01/22/2024,cardkingdom.com,Other,CARDKINGDOM.COM 5105 LEARY AVE NW 206-523-2273 98107 WA USA,1.0,Games
+Quicksilver,12/28/2023,,Payment/Credit,CREDIT-CASH BACK REWARD,1.0,Cashback/Interest
+Quicksilver,12/28/2023,,Internet,DISCORD* NITROMONTHLY,1.0,Subscriptions
+Amazon Card,12/30/2023,,Shopping,Amazon.com*S41S532E3,1.0,Amazon
+WF Checking,12/11/2023,,,VERIZON WIRELESS PAYMENTS,1.0,Phone
+WF Checking,01/04/2024,,,DISCOVER BANK NET/MOBILE ALEXANDER HARWARD,3.0,HYSA
+Costco Card,12/28/2023,,,COSTCO WHSE #1206 APEX NC,5.0,Grocery
+FIDELITY 401(k),12/22/2023,,SP 500 INDEX PL CL E,Contributions,1.0,401(k) Contributions
+FIDELITY 401(k),12/08/2023,,SP 500 INDEX PL CL E,Contributions,1.0,401(k) Contributions
+DISCOVER HYSA,12/31/2023,,,Interest Paid,1.0,Cashback/Interest

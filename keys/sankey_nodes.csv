@@ -1,0 +1,43 @@
+Primary Income0;rgb(23, 190, 207);rgba(151, 226, 233, 0.4);TRUNK;False
+401(k) Match0;rgb(255, 127, 14);rgba(255, 197, 147, 0.4);TRUNK;False
+Bonus0;rgb(31, 119, 180);rgba(154, 194, 221, 0.4);TRUNK;True
+HSA Match0;rgb(31, 119, 180);rgba(154, 194, 221, 0.4);TRUNK;True
+Cashback/Interest0;rgb(31, 119, 180);rgba(154, 194, 221, 0.4);TRUNK;True
+Gross Income1;rgb(44, 160, 44);rgba(160, 212, 160, 0.4);SPECIAL;False
+Savings2;rgb(214, 39, 40);rgba(237, 158, 158, 0.4);Gross Income1;False
+Gift/Donation3;rgb(214, 39, 40);rgba(237, 158, 158, 0.4);Expenses2;True
+Live Entertainment4;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Entertainment3;True
+Expenses2;rgb(148, 103, 189);rgba(207, 187, 225, 0.4);Gross Income1;False
+Entertainment3;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Expenses2;False
+Food3;rgb(31, 119, 180);rgba(154, 194, 221, 0.4);Expenses2;False
+Transportation3;rgb(44, 160, 44);rgba(160, 212, 160, 0.4);Expenses2;False
+Ride share4;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Transportation3;True
+Gas4;rgb(255, 127, 14);rgba(255, 197, 147, 0.4);Transportation3;True
+Airfare4;rgb(214, 39, 40);rgba(237, 158, 158, 0.4);Transportation3;True
+DMV/Maintenance4;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Transportation3;True
+Parking4;rgb(249, 226, 102);rgba(247, 243, 144, 0.4);Transportation3;True
+Grocery4;rgb(23, 190, 207);black;Food3;True
+Restaurant4;rgb(255, 127, 14);black;Food3;True
+Games4;rgb(249, 226, 102);rgba(247, 243, 144, 0.4);Entertainment3;True
+Subscriptions4;rgb(44, 160, 44);black;Entertainment3;True
+Movies4;rgb(214, 39, 40);black;Entertainment3;True
+Electronics3;rgb(23, 190, 207);rgba(151, 226, 233, 0.4);Expenses2;True
+Health3;rgb(214, 39, 40);rgba(237, 158, 158, 0.4);Expenses2;True
+Misc3;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Expenses2;True
+Brokerage3;rgb(31, 119, 180);rgba(154, 194, 221, 0.4);Savings2;True
+HYSA3;rgb(23, 190, 207);rgba(151, 226, 233, 0.4);Savings2;True
+Phone3;rgb(255, 127, 14);rgba(255, 197, 147, 0.4);Expenses2;True
+Rent3;rgb(44, 160, 44);rgba(160, 212, 160, 0.4);Expenses2;True
+Software3;rgb(148, 103, 189);rgba(207, 187, 225, 0.4);Expenses2;True
+Amazon3;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Expenses2;True
+Misc - Amazon3;rgb(214, 39, 40);rgba(237, 158, 158, 0.4);Expenses2;True
+Clothing3;rgb(31, 119, 180);rgba(154, 194, 221, 0.4);Expenses2;True
+Taxes2;rgb(249, 226, 102);rgba(247, 243, 144, 0.4);Gross Income1;False
+Federal Taxes3;rgb(23, 190, 207);rgba(151, 226, 233, 0.4);Taxes2;True
+State Taxes3;rgb(31, 119, 180);rgba(154, 194, 221, 0.4);Taxes2;True
+Social Security3;rgb(44, 160, 44);rgba(160, 212, 160, 0.4);Taxes2;True
+Medicare3;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Taxes2;True
+Furniture3;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Expenses2;True
+401(k) Contributions3;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Savings2;True
+Vending4;rgb(44, 160, 44);rgba(160, 212, 160, 0.4);Food3;True
+HSA3;rgb(140, 86, 75);rgba(203, 179, 174, 0.4);Savings2;True
